@@ -2,7 +2,7 @@
 
 # **Tema:** Análise de dados
 
-# **Autores:**
+# Autores:
 
 Cauê Vinícius dos Santos
 
