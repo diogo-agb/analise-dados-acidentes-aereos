@@ -1,8 +1,8 @@
-# Sobre o projeto
+**Sobre o projeto**
 
-# **Tema:** Análise de dados
+**Tema:** Análise de dados
 
-# Autores:
+**Autores:**
 Cauê Vinícius dos Santos
 
 Diogo Ágabo Leão De Brito
