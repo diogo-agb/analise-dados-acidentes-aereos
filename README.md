@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-# **Tema:** Análise de dados.
+# **Tema:** Análise de dados
 
 # **Autores:**
 
